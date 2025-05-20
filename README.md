@@ -73,6 +73,9 @@ python generate_digits.py --num_samples 10
 
 After training for 100 epochs, the generator can produce realistic handwritten digits. Sample outputs are saved periodically during training to visualize progress.
 
+![image](https://github.com/user-attachments/assets/86eaca94-342a-49e9-be57-4d0c28279eb1)
+
+
 ## References
 
 - Original DCGAN paper: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
